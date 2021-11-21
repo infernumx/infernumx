@@ -1,7 +1,8 @@
 ## 📓About me
 Python enthusiast, enjoy helping in [#python](https://discord.com/channels/172018499005317120/172055423774490624/) in [The Coding Den](https://discord.gg/code)
 
-Main language these days is Python, previous knowledge of Lua & C++ (out of practice)
+Main language is Python, previous experience with Lua & C++.
+Enjoy making CLI tools & parsing data.
 
 
 ## 🔗Links
