@@ -1,8 +1,5 @@
 ## 📓About me
-Python enthusiast.
-
-Main language is Python, previous experience with Lua & C++.
-Enjoy making CLI tools & parsing data.
+Self-taught programming enthusiast fluent in Python. Frequently enjoy creating command line tools, scraping, and parsing data.
 
 
 ## 🔗Links
